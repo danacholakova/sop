@@ -1,0 +1,86 @@
+#container {
+	width:960px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+background-image: url(hearts.gif);
+background-repeat: repeat-x;
+}
+
+#letter {
+
+	background-color: rgba(188, 188, 188,0.8);
+	
+	
+	border-radius: 5em 6em;
+	padding: 1.2em;
+	-moz-border-radius:5em 6em;
+	-webkit-border-radius:5em 6em;
+    -moz-box-shadow:0 0 6em rgba(181, 85, 142,80);
+	-webkit-box-shadow:0 0 6em rgba(181, 85, 142,80);
+	box-shadow: 0 0 6em rgba(181, 85, 142,80); 
+}
+
+header { text-align: left;
+font-size: 3.5em;
+color:#75114d;
+font-style: bold;
+padding-left: .5em;
+
+ }
+
+
+
+ body { text-align: center;
+ 	font-size: 1.5em;
+ line-height: 230% }
+
+.commit{color:rgba(17, 147, 56,50);
+ 	font-size: 1em;
+ 	font-weight: bold;
+
+
+}
+
+.push {color:rgba(206, 97, 162,50);
+ 	font-size: 1em;
+ 	font-weight: bold;
+
+}
+
+.init {color:rgba(37, 143, 186,50);
+ 	font-size: 1em;
+ 	font-weight: bold;
+
+}
+
+.status {color:rgba(100, 18, 155,50);
+ 	font-size: 1em;
+ 	font-weight: bold;
+
+}
+
+.log {color:rgba(209, 115, 8,50);
+ 	font-size: 1em;
+ 	font-weight: bold;
+
+}
+
+.heart {color:rgba(247, 230, 46,50);
+ 	font-size: 1em;
+ 	font-weight: bold;
+
+}
+
+ .xoxo {text-align: left;
+
+font-size: 2em;
+color:#cc4c08;
+font-style: bold;
+padding-left: .5em;}
+
+.me {text-align: left;
+font-size: 1.8em;
+color:#c1010e;
+font-style: bold;
+padding-left: .5em;}
