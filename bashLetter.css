@@ -1,8 +1,9 @@
-#container#container {
+#container{
 	width:960px;
 	margin-right: auto;
 	margin-right: auto;
 	text-align:center;
+	
 	
 
 }
@@ -11,7 +12,8 @@ body { font-family:Helvetica, Verdana, Arial, sans-serif;
 	font-size: 1em;
 	text-align: center
 	
-	background-color: #ffffff;
+	background-color: rgba(255,255,255,0.9);
+
 	margin-top: 2%;
 	border:2em solid #a51c6e;
 	border-radius: 5em 6em;
@@ -19,7 +21,11 @@ body { font-family:Helvetica, Verdana, Arial, sans-serif;
 	-webkit-border-radius:5em 6em;
     -moz-box-shadow:0 0 12em #75114d;
 	-webkit-box-shadow:0 0 12em #75114d;
-	box-shadow: 0 0 12em #75114d; }
+	box-shadow: 0 0 12em #75114d;
+	//*background-image: url(bashHearts.gif);
+	background-repeat: repeat-x;
+	background-position: 0% -70%; *//
+	 }
 
 
 p { text-align: center;

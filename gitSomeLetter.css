@@ -5,6 +5,7 @@
 	text-align: center;
 background-image: url(hearts.gif);
 background-repeat: repeat-x;
+
 }
 
 #letter {
@@ -66,11 +67,7 @@ padding-left: .5em;
 
 }
 
-.heart {color:rgba(247, 230, 46,50);
- 	font-size: 1em;
- 	font-weight: bold;
 
-}
 
  .xoxo {text-align: left;
 
