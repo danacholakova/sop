@@ -1,0 +1,187 @@
+#container#container {
+	width:960px;
+	margin-right: auto;
+	margin-right: auto;
+	text-align:center;
+	
+
+}
+
+body { font-family:Helvetica, Verdana, Arial, sans-serif;
+	font-size: 1em;
+	text-align: center
+	
+	background-color: #ffffff;
+	margin-top: 2%;
+	border:2em solid #a51c6e;
+	border-radius: 5em 6em;
+	-moz-border-radius:5em 6em;
+	-webkit-border-radius:5em 6em;
+    -moz-box-shadow:0 0 12em #75114d;
+	-webkit-box-shadow:0 0 12em #75114d;
+	box-shadow: 0 0 12em #75114d; }
+
+
+p { text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-right: 5%;
+	margin-left: 5%; 
+}
+
+
+
+ul { list-style: none;
+ overflow:hidden;
+ text-align: center;
+ font-size: .8em;
+ border:.1em inset;
+ -webkit-border-radius:5em 6em;
+    -moz-box-shadow:0 0 .2em #75114d;
+	-webkit-box-shadow:0 0 .2em #75114d;
+	box-shadow: 0 0 .2em #75114d;
+ margin-right: 10%;
+ margin-left:10%;
+
+
+
+  }
+
+
+
+ li { display:block;
+ 	color:#8c13c4;
+ 	text-decoration: none;
+ 	
+ 	
+ }
+
+ header {text-align: left;
+ 	margin-left: 2%;
+ 	margin-top: 5%;
+ 	font-size: 1.2em;
+ 	}
+
+ @keyframes greeting {
+    0%   {color:#8ab4f7;}	
+    15%  {color: #74a0e8;}
+    30%  {color: #6098f2 ;}
+    45% {color: #4788ef ;}
+    60% {color: #367ced;}
+    75% {color: #184999;}
+    100% {color: #072656;}
+}
+
+.greeting {
+   
+  
+    animation-name: greeting;
+    animation-duration: 6s;
+}
+
+ @keyframes bash {
+    0%   {color:#cc74a8;}	
+    15%  {color: #af4685;}
+    30%  {color:#75114d ;}
+    45% {color: #a51c6e ;}
+    60% {color: #783099;}
+    75% {color: #4f0e6d;}
+    100% {color: #ad0a6c;}
+}
+
+.bash {
+   
+  
+    animation-name: bash;
+    animation-duration: 6s;
+}
+
+
+.man { color:rgba(120, 48, 153,50);
+ 	font-size: 1.2em;
+ 	font-weight: bold; 
+
+ }
+
+ .ls { color:rgba(206, 97, 162,50);
+ 	font-size: 1.2em;
+ 	font-weight: bold; 
+
+ }
+
+ .ctrlr { color:rgba(117, 164, 239,50);
+ 	font-size: 1.2em;
+ 	font-weight: bold; 
+
+ }
+
+.ctrlf { color:rgba(163, 66, 124,60);
+ 	font-size: 1.2em;
+ 	font-weight: bold; 
+
+ }
+
+ .ctrle { color:rgba(204, 116, 168,30);
+ 	font-size: 1.2em;
+ 	font-weight: bold; 
+
+ }
+
+ .dotdotdot { color:rgba(117, 164, 239,50);
+ 	font-size: 1.2em;
+ 	font-weight: bold; 
+
+ }
+
+.ctrlb { color:rgba(120, 48, 153,50);
+ 	font-size: 1.2em;
+ 	font-weight: bold; 
+
+ }
+
+ .ctrla { color:rgba(117, 164, 239,70);
+ 	font-size: 1.2em;
+ 	font-weight: bold; 
+
+ }
+
+ .cd { color:rgba(163, 66, 124,40);
+ 	font-size: 1.2em;
+ 	font-weight: bold; 
+
+ }
+
+ .ls  { color:rgba(206, 97, 162,50);
+ 	font-size: 1.2em;
+ 	font-weight: bold; 
+
+ }
+
+ .lsa { color:rgba(206, 97, 162,50);
+ 	font-size: 1.2em;
+ 	font-weight: bold; 
+ }
+
+.love  { text-align: left;
+	font-size: 1.6em;
+	font-style: bold;
+	color:rgba(163, 66, 124,1);
+ }
+
+ .me {text-align: left;
+	font-size: 1.2em;
+	color:rgba(117, 164, 239,1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
